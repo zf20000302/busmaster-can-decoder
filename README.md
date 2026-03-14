@@ -47,7 +47,7 @@ Edit the script and specify your log and DBC files:
 logFile = "CAN_Test_260311.log";
 dbcFile = "CAN_BusMasterVer2.dbc";
 ```
-Then simply run the script in MATLAB.
+Then simply run the script in MATLAB
 The script will:
 1. Parse the BUSMASTER log file
 2. Parse the DBC file
